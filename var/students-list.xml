@@ -57,5 +57,12 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
+	<student>
+  	<firstname>Adrian</firstname>
+        <lastname>Morąg</lastname>
+        <email>adrianmorag@gmail.com</email>
+        <github>167638</github>
+        <group>KrZZIs3011io</group>
+	</student>
 
 </students>
